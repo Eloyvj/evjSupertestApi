@@ -19,9 +19,9 @@
     "chai": "^1.10.0",
     "chai-sorted": "^0.1.0",
     "eslint": "^3.18.0",
-    "mocha": "^3.5.0",
+    "mocha": "^5.2.0",
     "standard": "10.0.3",
-    "supertest": "^0.15.0",
+    "supertest": "^3.3.0",
     "supertest-as-promised": "^4.0.2"
   },
   "dependencies": {
