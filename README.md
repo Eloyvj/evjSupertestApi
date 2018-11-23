@@ -3,6 +3,10 @@ Small project for show an api test structure using Supertest, Mocha, Chai and Jo
 
 =================================================================================
 
+### Requirements:
+
+* Node.js (JavaScript runtime built on Chrome`s V8 JavaScript engine). Donwload [here](https://nodejs.org/en/)
+
 #### Dependencies:
 
 * Mocha (mocha is a feature-rich JavaScript test framework running on Node.js and in the browser)
@@ -10,7 +14,7 @@ Small project for show an api test structure using Supertest, Mocha, Chai and Jo
 * Chai (Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework)
 * Joi (Object schema description language and validator for JavaScript objects)
 
-#### Setup:
+#### Setup dependencies:
 
 * npm install (in root directory)
 
@@ -24,7 +28,7 @@ Small project for show an api test structure using Supertest, Mocha, Chai and Jo
 * npm run static_test (in root directory)
 * npm run static_fix (in root directory / to fix errors)
 
-#### Project Structure
+#### Project Structure:
 
 * Directory (./response_schemes)
     * Response schemes expected
